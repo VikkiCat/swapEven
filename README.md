@@ -2,7 +2,6 @@
 
 The purpose of this exercise is to train you to work with arrays.
 
-Estimated workload of this exercise is *20 min*.
 
 ### Description
 
